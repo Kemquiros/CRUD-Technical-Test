@@ -1,0 +1,9 @@
+App 1: Aplicación de vista
+App 2: Aplicación de backend
+Servidor: GlassFish
+Java: Java EE 7
+Script SQL, está en la carpeta de la App2, se llama "createDataBase.sql"
+Realmente me divertí creando este cuento.
+
+Atentamente: John Tapias Zarrazola
+Dec-15-2016 13:46
